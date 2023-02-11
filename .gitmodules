@@ -1,0 +1,4 @@
+[submodule "pert-calculator"]
+	path = pert-calculator
+	url = https://github.com/Derkyela/pert-calculator.git
+	branch = gh-pages
